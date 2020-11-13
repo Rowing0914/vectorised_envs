@@ -24,7 +24,7 @@ Markdown==3.1.1
 mpi4py==3.0.2
 numpy==1.17.2
 opencv-python==4.1.1.26
-Pillow==6.1.0
+Pillow==7.1.0
 progressbar2==3.46.1
 protobuf==3.9.1
 pycparser==2.19
