@@ -22,7 +22,7 @@ Keras-Preprocessing==1.1.0
 lockfile==0.12.2
 Markdown==3.1.1
 mpi4py==3.0.2
-numpy==1.17.2
+numpy==1.22.0
 opencv-python==4.1.1.26
 Pillow==8.1.1
 progressbar2==3.46.1
